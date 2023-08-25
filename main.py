@@ -7,41 +7,14 @@ from datetime import datetime
 from selenium import webdriver 
 from selenium.webdriver.chrome.service import Service as ChromeService 
 from webdriver_manager.chrome import ChromeDriverManager 
+from helpers import * 
 
-
-def standardize_dates(input_date_str):
-    try:
-        if input_date_str == 'unknown':
-            output_dt = None
-            return output_dt
-        try:
-            return datetime.strptime(input_date_str,'%b %d, %Y')
-        except:
-            return datetime.strptime(input_date_str,'%Y')
-    except:
-        pass
-
-def str_to_int_rating(str_rating):
-    if bool(re.search(r"it was amazing",str_rating)):
-        int_rating = 5
-    elif bool(re.search(r"really liked it",str_rating)):
-        int_rating = 4
-    elif bool(re.search(r"liked it",str_rating)):
-        int_rating = 3
-    elif bool(re.search(r"did not like it",str_rating)):
-        int_rating = 1
-    else:
-        int_rating = None
-    return int_rating
-
-url = 'https://www.goodreads.com/review/list/142380450-mauricio-pujol'
+url = 'https://www.goodreads.com/review/list/142380450-mauricio-pujol' # This is my profile containing all read and unread books
 page = urlopen(url)
 html = page.read().decode("utf-8")
 soup = BeautifulSoup(html, "html.parser")
 html_tr = soup.find_all("tr")
-
-
-df_my_books = pd.DataFrame({'title': pd.Series(dtype='str'),
+df_my_books = pd.DataFrame({'title': pd.Series(dtype='str'), #This defines the structure for the dataframe to store scraped data
                    'author': pd.Series(dtype='str'),
                    'pages': pd.Series(dtype='int'),
                    'avg_rating': pd.Series(dtype='float'),
@@ -51,7 +24,6 @@ df_my_books = pd.DataFrame({'title': pd.Series(dtype='str'),
                    'cover_link': pd.Series(dtype='str')
                    #'c': pd.Series(dtype='float')
                 })
-
 for i in range(0,len(html_tr)):
     try:
         df_my_books.loc[len(df_my_books.index)] = [
