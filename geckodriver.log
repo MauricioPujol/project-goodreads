@@ -1,0 +1,1367 @@
+1694385347030	geckodriver	INFO	Listening on 127.0.0.1:56819
+1694385350071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileiWcmuX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694385351022	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694385351365	Marionette	INFO	Listening on port 56839
+WebDriver BiDi listening on ws://127.0.0.1:56820
+Read port: 56839
+1694385351787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56820/devtools/browser/f7063252-defa-43cb-adf6-49085fd13087
+1694390164733	Marionette	INFO	Stopped listening on port 56839
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileo0wDwO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694385432548	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694385432852	Marionette	INFO	Listening on port 57051
+WebDriver BiDi listening on ws://127.0.0.1:57040
+Read port: 57051
+1694385433088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57040/devtools/browser/8aa393c5-0814-40db-89ab-4dc935b86d85
+Shutting down due to socket process crash.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2406: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2406: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2406: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2406: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2406: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1694390158126	Marionette	INFO	Stopped listening on port 57051
+Dynamically enable window occlusion 1
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+5e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://m.media-amazon.com/images/I/41mrkPcyPwL.js, line 1: Script terminated by timeout at:
+y/<@https://m.media-amazon.com/images/I/41mrkPcyPwL.js:1:657
+
+1694385631663	Marionette	INFO	Stopped listening on port 57217
+Dynamically enable window occlusion 1
+1694386144089	geckodriver	INFO	Listening on 127.0.0.1:57680
+1694386147132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileWSTUwC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694386147704	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694386148036	Marionette	INFO	Listening on port 57692
+WebDriver BiDi listening on ws://127.0.0.1:57681
+Read port: 57692
+1694386148144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57681/devtools/browser/d501324f-0eeb-4cae-9ae7-ea88fca94728
+JavaScript warning: https://m.media-amazon.com/images/I/41mrkPcyPwL.js, line 1: Script terminated by timeout at:
+y/<@https://m.media-amazon.com/images/I/41mrkPcyPwL.js:1:657
+
+1694387113539	Marionette	INFO	Stopped listening on port 57692
+Dynamically enable window occlusion 1
+rs\\mauri\\AppData\\Local\\Temp\\rust_mozprofilevbThDR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694386194355	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694386194655	Marionette	INFO	Listening on port 57812
+WebDriver BiDi listening on ws://127.0.0.1:57799
+Read port: 57812
+1694386194980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57799/devtools/browser/4210fb33-938d-4f80-9652-7180b73e3ef6
+1694386199686	Marionette	INFO	Stopped listening on port 57812
+Dynamically enable window occlusion 1
+1694386204862	geckodriver	INFO	Listening on 127.0.0.1:57841
+1694386207907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofile8YeudM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694386208535	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694386208822	Marionette	INFO	Listening on port 57855
+Read port: 57855
+WebDriver BiDi listening on ws://127.0.0.1:57842
+1694386208961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57842/devtools/browser/6c02c288-7f96-4ada-a7e7-e26a42a282b7
+JavaScript warning: https://m.media-amazon.com/images/I/41mrkPcyPwL.js, line 1: Script terminated by timeout at:
+y/<@https://m.media-amazon.com/images/I/41mrkPcyPwL.js:1:657
+
+1694387112614	Marionette	INFO	Stopped listening on port 57855
+Dynamically enable window occlusion 1
+rs\\mauri\\AppData\\Local\\Temp\\rust_mozprofile5bmybv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694386373476	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694386373734	Marionette	INFO	Listening on port 58084
+WebDriver BiDi listening on ws://127.0.0.1:58072
+Read port: 58084
+1694386374077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58072/devtools/browser/80fb9dbd-bb65-4287-89c7-9919366abcf1
+1694386383746	Marionette	INFO	Stopped listening on port 58084
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308240101/pubads_impl.js?cb=31077595, line 18: Script terminated by timeout at:
+@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308240101/pubads_impl.js?cb=31077595:18:18342
+
+Dynamically enable window occlusion 1
+1694386399869	geckodriver	INFO	Listening on 127.0.0.1:58170
+1694386402934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileVSHVvS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694386403507	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694386403797	Marionette	INFO	Listening on port 58183
+WebDriver BiDi listening on ws://127.0.0.1:58171
+Read port: 58183
+1694386404125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58171/devtools/browser/f8c79dab-8d27-4177-b0f2-1e1c22f6f96c
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.es_419.qxzPZnd3Ki4.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAIACAQlUEAQwABN5_IjEAAAgAATABxMEeAEAJVcAOAAAAjP0AAAAAABAsAMYLAE0AB0KAAiAAAAAA8gDgPIDgIMICAAAAAAAAAAAACLgEweCA9FhAAAQAAAAAAAAAAACobPJyAAEAMA/d=1/ed=1/dg=2/rs=ACT90oGbEEzSJOqXwGgfufj2JIAncVOKqQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 415: Script terminated by timeout at:
+b@https://www.google.com/xjs/_/js/k=xjs.s.es_419.qxzPZnd3Ki4.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAIACAQlUEAQwABN5_IjEAAAgAATABxMEeAEAJVcAOAAAAjP0AAAAAABAsAMYLAE0AB0KAAiAAAAAA8gDgPIDgIMICAAAAAAAAAAAACLgEweCA9FhAAAQAAAAAAAAAAACobPJyAAEAMA/d=1/ed=1/dg=2/rs=ACT90oGbEEzSJOqXwGgfufj2JIAncVOKqQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:415:40
+
+1694386459773	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://cdn-ima.33across.com/ima.js, line 2: Error: _33AcrossIdMappingsProvider: Ajax: Status code 0
+JavaScript error: https://s0.2mdn.net/sadbundle/11708463009108152773/index.html?ev=01_250, line 268: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/sadbundle/14639177460264150787/index.html?ev=01_250, line 268: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 6467 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 2817 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694386472393	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 5284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pythonexamples.org/python-selenium-scroll-down/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 7728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 3724 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/41mrkPcyPwL.js, line 1: Script terminated by timeout at:
+y/<@https://m.media-amazon.com/images/I/41mrkPcyPwL.js:1:657
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-848MHPCZ2L&l=dataLayer&cx=c, line 506: Script terminated by timeout at:
+aa.oh@https://www.googletagmanager.com/gtag/js?id=G-848MHPCZ2L&l=dataLayer&cx=c:506:89
+get@https://www.googletagmanager.com/gtag/js?id=G-848MHPCZ2L&l=dataLayer&cx=c:504:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-848MHPCZ2L&l=dataLayer&cx=c:504:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-848MHPCZ2L&l=dataLayer&cx=c:504:412
+
+1694386511103	Marionette	INFO	Stopped listening on port 58183
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertag&topUrl=pythonexamples.org#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22pythonexamples.org%22,%22topUrl%22:%22pythonexamples.org%22,%22version%22:135,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.8208763258801255%22}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=pythonexamples.org#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22pythonexamples.org%22,%22topUrl%22:%22pythonexamples.org%22,%22version%22:135,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.8208763258801255%22}:14:3137
+r/<@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=pythonexamples.org#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22pythonexamples.org%22,%22topUrl%22:%22pythonexamples.org%22,%22version%22:135,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.8208763258801255%22}:14:3642
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694386513290	geckodriver	INFO	Listening on 127.0.0.1:60080
+1694386516339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileLyrkhv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694386516930	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694386517166	Marionette	INFO	Listening on port 60092
+WebDriver BiDi listening on ws://127.0.0.1:60081
+Read port: 60092
+1694386517512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60081/devtools/browser/d9dc30e9-8f36-4f07-9df6-15e35d5edef9
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+1694387102080	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 1237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js1694387162214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileQUDpIm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694387162955	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694387163206	Marionette	INFO	Listening on port 60594
+WebDriver BiDi listening on ws://127.0.0.1:60580
+Read port: 60594
+1694387163538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60580/devtools/browser/cb2d22e3-82dc-448e-b972-d4dc9890eb61
+JavaScript warning: https://m.media-amazon.com/images/I/41mrkPcyPwL.js, line 1: Script terminated by timeout at:
+y/<@https://m.media-amazon.com/images/I/41mrkPcyPwL.js:1:657
+
+1694387418128	Marionette	INFO	Stopped listening on port 60594
+Dynamically enable window occlusion 1
+rs\\mauri\\AppData\\Local\\Temp\\rust_mozprofileOINoAA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694387198720	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694387198999	Marionette	INFO	Listening on port 60698
+WebDriver BiDi listening on ws://127.0.0.1:60686
+Read port: 60698
+1694387199321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60686/devtools/browser/90761cd5-8bd6-407d-83b1-45ecd4585683
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+1694387242562	Marionette	INFO	Stopped listening on port 60691694387243409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileiHS2wF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694387244009	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694387244299	Marionette	INFO	Listening on port 60805
+WebDriver BiDi listening on ws://127.0.0.1:60792
+Read port: 60805
+1694387244626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60792/devtools/browser/587b3e95-d55b-45ee-83ec-2bdc88b3b1e9
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+1694387273773	Marionette	INFO	Stopped listening on port 60805
+Dynamically enable window occlusion 1
+1694387366382	geckodriver	INFO	Listening on 127.0.0.1:60971
+1694387369435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60972" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofilewEHHB3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694387369993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694387370255	Marionette	INFO	Listening on port 60984
+WebDriver BiDi listening on ws://127.0.0.1:60972
+Read port: 60984
+1694387370720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60972/devtools/browser/86f41c0b-8537-44b1-badf-987e15bb098b
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+1694387399011	Marionette	INFO	Stopped listening on port 60984
+Dynamically enable window occlusion 1
+1694387415604	geckodriver	INFO	Listening on 127.0.0.1:61082
+1694387418642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofile1ISIP9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694387419269	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694387419532	Marionette	INFO	Listening on port 61096
+WebDriver BiDi listening on ws://127.0.0.1:61083
+Read port: 61096
+1694387419794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61083/devtools/browser/0a2bc241-a940-490f-974d-67f91ae0a8e3
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://m.media-amazon.com/images/I/41mrkPcyPwL.js, line 1: Script terminated by timeout at:
+y/<@https://m.media-amazon.com/images/I/41mrkPcyPwL.js:1:657
+
+1694388158465	Marionette	INFO	Stopped listening on port 61096
+Dynamically enable window occlusion 1
+1694388160680	geckodriver	INFO	Listening on 127.0.0.1:61551
+1694388163734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileafR7es"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694388164310	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694388164558	Marionette	INFO	Listening on port 61564
+WebDriver BiDi listening on ws://127.0.0.1:61552
+Read port: 61564
+1694388164882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61552/devtools/browser/2113a3e7-ebc0-43e5-b968-cd4dba6b565b
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://m.media-amazon.com/images/I/41mrkPcyPwL.js, line 1: Script terminated by timeout at:
+y/<@https://m.media-amazon.com/images/I/41mrkPcyPwL.js:1:657
+
+1694388278704	Marionette	INFO	Stopped listening on port 61564
+Dynamically enable window occlusion 1
+1694388280692	geckodriver	INFO	Listening on 127.0.0.1:61734
+1694388283740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofileKsRJ92"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694388284315	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694388284558	Marionette	INFO	Listening on port 61746
+Read port: 61746
+WebDriver BiDi listening on ws://127.0.0.1:61735
+1694388284660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61735/devtools/browser/c405f88c-086a-46d4-9a3e-90e8a275b677
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d1694390163602	Marionette	INFO	Stopped listening on port 62111
+Dynamically enable window occlusion 1
+assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+1694389703680	geckodriver	INFO	Listening on 127.0.0.1:62805
+1694389706727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofilewr1RJN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694389707430	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694389707695	Marionette	INFO	Listening on port 62821
+WebDriver BiDi listening on ws://127.0.0.1:62806
+Read port: 62821
+1694389708055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62806/devtools/browser/94fe0c39-f732-4177-815d-4c270c8831da
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+1694390160995	Marionette	INFO	Stopped listening on port 62821
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mauri\\AppData\\Local\\Temp\\rust_mozprofilejW56f3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694389894045	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694389894324	Marionette	INFO	Listening on port 63028
+WebDriver BiDi listening on ws://127.0.0.1:63015
+Read port: 63028
+1694389894639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63015/devtools/browser/1c0f9fd3-6d1d-4fef-9b36-205bf8150646
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 6554 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Shutting down due to socket process crash.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2406: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1694390158237	Marionette	INFO	Stopped listening on port 63028
+Dynamically enable window occlusion 1
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+JavaScript error: https://s.gr-assets.com/assets/review/list-848c7ab98d543929c014e94c55e6e268.js, line 1: TypeError: $$(...)[0] is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Shutting down due to socket process crash.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1690: Error: permitUnload is already running for this tab.
