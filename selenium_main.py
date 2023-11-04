@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from helpers import *
 import time
-from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
 browser = webdriver.Firefox()
